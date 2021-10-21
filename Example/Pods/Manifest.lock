@@ -1,0 +1,24 @@
+PODS:
+  - CTMediator (46)
+  - LMYPersonPeferenceKit (0.1.0):
+    - CTMediator
+
+DEPENDENCIES:
+  - CTMediator
+  - LMYPersonPeferenceKit (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - CTMediator
+
+EXTERNAL SOURCES:
+  LMYPersonPeferenceKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CTMediator: f1cf58d509fb3192086c367711f039efd769b907
+  LMYPersonPeferenceKit: 0d8d22dee88cbf478227aa7b6dc09843bd09187e
+
+PODFILE CHECKSUM: 30e01434af0f16e94f317a5944aaf845cd234a53
+
+COCOAPODS: 1.11.0

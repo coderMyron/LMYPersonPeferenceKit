@@ -1,0 +1,6 @@
+framework module Pods_LMYPersonPeferenceKit_Tests {
+  umbrella header "Pods-LMYPersonPeferenceKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
