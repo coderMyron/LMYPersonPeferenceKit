@@ -1,2 +1,2 @@
-# LMYPersonPreferenceKit
-PersonPreference组件
+# LMYPersonPeferenceKit
+PersonPeference组件
